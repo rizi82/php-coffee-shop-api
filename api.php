@@ -10,7 +10,7 @@ define('MAIN',realpath('../'));
 include_once MAIN.'/includes/functions.php';
 require_once('vendor/autoload.php');
 use \Firebase\JWT\JWT;
-define('SECRET_KEY','BTC-ANRIC-CASH'); /// secret key can be any random string
+define('SECRET_KEY','XC$#%$^&*)BGB$#%$#%#vdfjgdjh4FVDFBFGHRT43535$%$_%()^'); /// secret key can be any random string
 define('ALGORITHM','HS512'); // Algorithm used to sign the token,
 
 
